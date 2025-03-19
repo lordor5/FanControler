@@ -1,0 +1,9 @@
+Manufacturer=PANJIT
+PartNumber=PJA3432_R2_00001
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2022-02-24 05:01:32
+Downloaded=2025-03-18 19:47:04
+3D=Y

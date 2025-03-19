@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PJA3432_R2_00001")(type "Legacy")(uri "${KIPRJMOD}/PJA3432_R2_00001/KiCad/PJA3432_R2_00001.lib")(options "")(descr ""))
+)
