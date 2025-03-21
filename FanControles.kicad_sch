@@ -5,6 +5,311 @@
 	(uuid "fda21301-adb3-4c9c-87a1-8079906facbb")
 	(paper "A4")
 	(lib_symbols
+		(symbol "BSH103BKR:BSH103BKR"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 11.43 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "BSH103BKR"
+				(at 11.43 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOT95P230X110-3N"
+				(at 11.43 -98.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ms.componentsearchengine.com/Datasheets/2/BSH103BKR.pdf"
+				(at 11.43 -198.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "NEXPERIA - BSH103BKR - Power MOSFET, N Channel, 30 V, 1 A, 0.23 ohm, SOT-23, Surface Mount"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 11.43 -398.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "771-BSH103BKR"
+				(at 11.43 -498.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/BSH103BKR?qs=GCAb4wyKXLKD%2FWt2ta8c7Q%3D%3D"
+				(at 11.43 -598.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Nexperia"
+				(at 11.43 -698.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BSH103BKR"
+				(at 11.43 -798.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "BSH103BKR_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 5.588) (xy 5.842 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.54) (xy 6.858 3.048) (xy 6.858 2.032) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.032) (xy 5.842 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -0.508) (xy 5.842 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 6.35 2.54)
+					(radius 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 5.842 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 10.16 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Potentiometer_US"
 			(pin_names
 				(offset 1.016)
@@ -208,176 +513,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "PJA3432_R2_00001:PJA3432_R2_00001"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "IC"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "PJA3432_R2_00001"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT95P240X110-3N"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "MOSFET /A32/TR/13\"/HF/12K/SOT-23/MOS/SOT/NFET-20TMN/NF20T-QI13/PJ///"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1.1"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "241-PJA3432_R2_00001"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panjit/PJA3432_R2_00001?qs=sPbYRqrBIVm3I8STzQUb5A%3D%3D"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "PANJIT"
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "PJA3432_R2_00001"
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "PJA3432_R2_00001_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 20.32 0 180)
-					(length 5.08)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -709,16 +844,26 @@
 		)
 	)
 	(junction
-		(at 165.1 95.25)
+		(at 160.02 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5c29af3a-86cc-4266-b8d1-777f2fe75dfc")
+		(uuid "e6e94cc2-d705-4a65-8843-097715d0ab3c")
 	)
 	(junction
-		(at 146.05 95.25)
+		(at 138.43 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7346288c-d365-4169-97ef-b09b1666eeb1")
+		(uuid "f30bb421-7dd1-44fa-ae04-1fda3adaaeae")
+	)
+	(wire
+		(pts
+			(xy 138.43 95.25) (xy 146.05 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a09404a-550a-49c8-8662-16cf9c4e3a06")
 	)
 	(wire
 		(pts
@@ -732,7 +877,27 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 91.44) (xy 146.05 91.44)
+			(xy 138.43 81.28) (xy 137.16 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24715978-ec1b-45fe-87fa-64f0366ed41c")
+	)
+	(wire
+		(pts
+			(xy 160.02 104.14) (xy 160.02 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bfdfbf8-e15d-4aae-b02c-ef37833821c4")
+	)
+	(wire
+		(pts
+			(xy 149.86 91.44) (xy 138.43 91.44)
 		)
 		(stroke
 			(width 0)
@@ -742,13 +907,13 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 95.25) (xy 170.18 95.25)
+			(xy 160.02 95.25) (xy 170.18 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3ab026b6-1100-4540-884e-13c115af4721")
+		(uuid "410a5951-b266-45cf-9862-25d07ad5e57e")
 	)
 	(wire
 		(pts
@@ -762,7 +927,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 91.44) (xy 146.05 95.25)
+			(xy 138.43 91.44) (xy 138.43 95.25)
 		)
 		(stroke
 			(width 0)
@@ -772,13 +937,53 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 95.25) (xy 165.1 95.25)
+			(xy 148.59 111.76) (xy 153.67 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f97db7d-ed90-4951-8b32-8f64c2e12060")
+	)
+	(wire
+		(pts
+			(xy 160.02 104.14) (xy 158.75 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "716b479a-b91b-432e-862b-cfdf39937608")
+	)
+	(wire
+		(pts
+			(xy 153.67 95.25) (xy 160.02 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "75038479-af28-46c4-b65b-7fae60d417df")
+	)
+	(wire
+		(pts
+			(xy 172.72 111.76) (xy 168.91 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6d6ccae-a6e7-4c92-8a84-37b67033a3a7")
+	)
+	(wire
+		(pts
+			(xy 148.59 111.76) (xy 148.59 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1c3fa2b-af68-410c-9267-4272fc3d7b65")
 	)
 	(wire
 		(pts
@@ -792,43 +997,13 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 95.25) (xy 146.05 95.25)
+			(xy 135.89 95.25) (xy 138.43 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cda689ba-70c4-4ebe-83c2-7c8f4198ac72")
-	)
-	(wire
-		(pts
-			(xy 160.02 113.03) (xy 165.1 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce51d6b9-4520-4c15-95ee-f86c84702d83")
-	)
-	(wire
-		(pts
-			(xy 165.1 113.03) (xy 165.1 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d848bd79-ddd0-450d-b41d-d646eb0a7714")
-	)
-	(label "Fan"
-		(at 160.02 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0f8afc86-2a79-427b-b651-5644d2b865c9")
 	)
 	(label "+24v"
 		(at 172.72 92.71 0)
@@ -859,6 +1034,16 @@
 			(justify left bottom)
 		)
 		(uuid "75c49419-4423-4962-a588-11338fd8c920")
+	)
+	(label "Fan"
+		(at 172.72 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90dbfa78-d4c2-4236-8c52-593fb4b2e36c")
 	)
 	(label "Fan"
 		(at 180.34 81.28 180)
@@ -1062,7 +1247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/3266.pdf"
 			(at 149.86 95.25 0)
 			(effects
 				(font
@@ -1071,12 +1256,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer, US symbol"
-			(at 149.86 95.25 0)
+		(property "Description" "10k potentiometer"
+			(at 143.764 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "3266 W-1-103_LF"
+			(at 149.86 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
@@ -1100,73 +1295,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 139.7 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ac2b5e3-fa59-434f-bc58-5112bc5e528a")
-		(property "Reference" "#PWR04"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 139.7 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2e17b0e-2d33-4c5e-bb61-3f565b2ed089")
-		)
-		(instances
-			(project "FanControles"
-				(path "/fda21301-adb3-4c9c-87a1-8079906facbb"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 81.28 0)
+		(at 138.43 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1175,7 +1304,7 @@
 		(fields_autoplaced yes)
 		(uuid "31177cda-ddab-4a0a-975e-754b6b7bbaf3")
 		(property "Reference" "#PWR01"
-			(at 137.16 87.63 0)
+			(at 138.43 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1184,7 +1313,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 86.36 0)
+			(at 138.43 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1192,7 +1321,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 81.28 0)
+			(at 138.43 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1201,7 +1330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 81.28 0)
+			(at 138.43 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1210,7 +1339,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 81.28 0)
+			(at 138.43 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1391,42 +1520,33 @@
 		)
 	)
 	(symbol
-		(lib_id "PJA3432_R2_00001:PJA3432_R2_00001")
-		(at 160.02 113.03 180)
+		(lib_id "BSH103BKR:BSH103BKR")
+		(at 158.75 104.14 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c69191f8-d4a0-4dad-b2a9-d8c1ec8c8930")
-		(property "Reference" "IC1"
-			(at 150.114 106.426 0)
+		(fields_autoplaced yes)
+		(uuid "55d14ae6-2bbf-499a-98e4-d1007bc6e5da")
+		(property "Reference" "Q1"
+			(at 161.29 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "PJA3432"
-			(at 149.352 117.602 0)
+		(property "Value" "BSH103BKR"
+			(at 161.29 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "KiCad:SOT95P240X110-3N"
-			(at 143.51 18.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 -81.89 0)
+		(property "Footprint" "BSH:SOT95P230X110-3N"
+			(at 60.02 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1435,8 +1555,18 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MOSFET /A32/TR/13\"/HF/12K/SOT-23/MOS/SOT/NFET-20TMN/NF20T-QI13/PJ///"
-			(at 160.02 113.03 0)
+		(property "Datasheet" "https://ms.componentsearchengine.com/Datasheets/2/BSH103BKR.pdf"
+			(at -39.98 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "NEXPERIA - BSH103BKR - Power MOSFET, N Channel, 30 V, 1 A, 0.23 ohm, SOT-23, Surface Mount"
+			(at 158.75 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1445,7 +1575,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 143.51 -281.89 0)
+			(at -239.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1454,8 +1584,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "241-PJA3432_R2_00001"
-			(at 143.51 -381.89 0)
+		(property "Mouser Part Number" "771-BSH103BKR"
+			(at -339.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1464,8 +1594,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panjit/PJA3432_R2_00001?qs=sPbYRqrBIVm3I8STzQUb5A%3D%3D"
-			(at 143.51 -481.89 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/BSH103BKR?qs=GCAb4wyKXLKD%2FWt2ta8c7Q%3D%3D"
+			(at -439.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1474,8 +1604,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "PANJIT"
-			(at 143.51 -581.89 0)
+		(property "Manufacturer_Name" "Nexperia"
+			(at -539.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1484,8 +1614,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "PJA3432_R2_00001"
-			(at 143.51 -681.89 0)
+		(property "Manufacturer_Part_Number" "BSH103BKR"
+			(at -639.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1495,18 +1625,84 @@
 			)
 		)
 		(pin "1"
-			(uuid "02715a23-445b-4ac7-ad1f-fdee1a87179b")
+			(uuid "b838b869-f047-4cb7-b2a5-fd87e8963a7b")
 		)
 		(pin "3"
-			(uuid "5be6c87a-353b-4359-beab-bfc64c787f0b")
+			(uuid "10109bf2-c18f-4bca-aae5-b291a086d098")
 		)
 		(pin "2"
-			(uuid "1ebe346a-ae44-485a-bc6e-e13b5b835ec7")
+			(uuid "9724d44b-eb03-470b-87fb-a34454050d0f")
 		)
 		(instances
 			(project ""
 				(path "/fda21301-adb3-4c9c-87a1-8079906facbb"
-					(reference "IC1")
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0ad974f-2d4e-4c99-b242-c87a7f23cdb1")
+		(property "Reference" "#PWR05"
+			(at 148.59 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fdfc1b32-bb1d-47be-ae8f-d8ddbccc5e85")
+		)
+		(instances
+			(project "FanControles"
+				(path "/fda21301-adb3-4c9c-87a1-8079906facbb"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -1674,7 +1870,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 95.25 0)
+		(at 135.89 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1683,7 +1879,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9e33b18-4c00-4ae6-a4a2-ee2df221b429")
 		(property "Reference" "#PWR03"
-			(at 140.97 101.6 0)
+			(at 135.89 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1692,7 +1888,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 100.33 0)
+			(at 135.89 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1700,7 +1896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 95.25 0)
+			(at 135.89 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1709,7 +1905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 95.25 0)
+			(at 135.89 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1718,7 +1914,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 95.25 0)
+			(at 135.89 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)

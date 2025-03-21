@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=BSH103BKR
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=7.1
+Released=2021-09-28 05:36:24
+Downloaded=2025-03-20 14:43:45
+3D=Y
