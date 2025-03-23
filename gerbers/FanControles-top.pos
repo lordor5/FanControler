@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-03-22T17:50:38+0100 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                                       PosX       PosY       Rot  Side
+P1        24v_Fan    JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal   151.0000   -91.0000   90.0000  top
+P2        24v        JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal   145.0000   -80.0000  -90.0000  top
+P3        100k_NTC   JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal   151.0500   -82.5000   90.0000  top
+Q1        BSH103BKR  SOT95P230X110-3N                          142.5625   -92.4500    0.0000  top
+RV1       10k        Potentiometer_Bourns_3266W_Vertical       141.5000   -89.2250  180.0000  top
+## End
